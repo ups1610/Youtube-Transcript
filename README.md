@@ -44,3 +44,11 @@ Hugging-face,
 * Get the text as per your language comfort with audio facility.
 
 ![YouTube Transcript summarization](https://user-images.githubusercontent.com/75423160/211209774-797d35d9-fc59-4724-90b2-019711c19363.png)
+
+## How to use
+
+```
+fork the repository
+install all requirement python libraries in .ipynb
+run with python8 or above
+```
