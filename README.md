@@ -9,3 +9,8 @@ Whole working depends on the two-working scenario:***
 * Login to the app
 * Summarize the video
 
+## Work Flow of an API
+
+![image](https://user-images.githubusercontent.com/75423160/211209445-e2cbcc36-122f-4d8c-a8dd-8427f193c4d5.png)
+
+
