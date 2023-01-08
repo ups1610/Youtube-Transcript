@@ -27,4 +27,20 @@ Hugging-face,
  PIL etc. 
 ```
 
+## Overview
 
+* Activate the app.
+
+![image](https://user-images.githubusercontent.com/75423160/211209580-08df9848-a616-450f-be3f-79795d954ee4.png)
+
+* Enter the URL of the valid link
+
+![image](https://user-images.githubusercontent.com/75423160/211209596-237f2e2a-0c4f-48c9-9079-62a831f5825c.png)
+
+* Summarize the video .
+
+![image](https://user-images.githubusercontent.com/75423160/211209625-96d160e5-a17a-4646-b9e9-d3ac153e4d13.png)
+
+* Get the text as per your language comfort with audio facility.
+
+![YouTube Transcript summarization](https://user-images.githubusercontent.com/75423160/211209774-797d35d9-fc59-4724-90b2-019711c19363.png)
