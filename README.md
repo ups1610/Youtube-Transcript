@@ -6,7 +6,7 @@
 User have to activate the app by clicking the activate button and then the URL of the video to which he/she wants to get the summary. After clicking the Transcript button, summary of the particular video has created and based on the user comfort language he/she can translate the summary  to its requirement. 
 There is a feature of speech by which user can listen the audio voice of the summary in case he/she is not interested in reading.
 Whole working depends on the two-working scenario:***
-* Login to the app
+* Login to the application
 * Summarize the video
 
 ## Work Flow of an API
